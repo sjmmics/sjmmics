@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjmmics)](https://solved.ac/sjmmics)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sjmmics)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjmmics&layout=compact)
