@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjmmics)](https://solved.ac/sjmmics)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjmmics)](https://solved.ac/sjmmics) [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/sjmmics)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sjmmics)
 
